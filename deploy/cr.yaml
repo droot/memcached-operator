@@ -1,0 +1,6 @@
+apiVersion: "memcached.example.com/v1alpha1"
+kind: "Memcached"
+metadata:
+  name: "example"
+spec:
+  size: 2
